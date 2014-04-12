@@ -9,3 +9,9 @@ Only the first operation was actually tested though... as you can probably see i
 
 Get your API key on the Meo Wallet site.
 
+# Requirements
+The only requirement (apart from an API Key) is the [requests](http://docs.python-requests.org/en/latest/) library.
+
+You can install it with the following command:
+```pip install requests```
+
